@@ -1,0 +1,2 @@
+# ManipalGitShubhamKamble
+Manipal Training Repos
